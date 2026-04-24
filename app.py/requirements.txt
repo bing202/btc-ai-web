@@ -1,0 +1,7 @@
+streamlit
+torch
+transformers
+yfinance
+pandas
+matplotlib
+scikit-learn
